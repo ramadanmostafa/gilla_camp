@@ -1,0 +1,3 @@
+Sorry your application was rejected.
+
+Reason: Camper age must be between 9-18
